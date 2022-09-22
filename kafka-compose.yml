@@ -1,5 +1,5 @@
 version: '2'
-# create new containers: docker-compose up -d
+# create new containers: docker-compose -f kafka-compose.yml up -d
 # delete containers: docker-compose down
 # stop containers: docker-compose stop
 # start containers: docker-compose start
